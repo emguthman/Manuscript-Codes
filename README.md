@@ -19,3 +19,9 @@ Most scripts were written by Eartha Mae Guthman, with some noted exceptions:
 Code for Guthman et al 2025
 
 all code written by Eartha Mae Guthman unless otherwise noted
+
+-------------------------------------------------------------------------------------------------------------------
+Code for Cara*, Guthman* et al 2025
+
+invivo_panel.m written by Eartha Mae Guthman
+photo_preprocess.py written by Sae Yokoyama
