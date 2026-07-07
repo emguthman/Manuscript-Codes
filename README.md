@@ -24,4 +24,4 @@ all code written by Eartha Mae Guthman unless otherwise noted
 Code for Cara*, Guthman* et al 2025
 
 invivo_panel.m written by Eartha Mae Guthman
-photo_preprocess.py written by Sae Yokoyama
+photo_preprocess.py & MBF_FP3002_BehavioralCameras_LEDs_exp.bonsai written by Sae Yokoyama
